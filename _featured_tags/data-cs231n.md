@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: CS231n
+title: cs231n
 slug: cs231n
 category: data
 menu: false
