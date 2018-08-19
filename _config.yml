@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Step by step
+title:              Step by step
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -18,7 +18,7 @@ tagline: Studying Data
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  µ¥ÀÌÅÍ ºĞ¼®¿¡ °øºÎ&Á¤¸®ÇÑ ºí·Î±× ÀÔ´Ï´Ù.
+  ë°ì´í„° ë¶„ì„ì— ê³µë¶€&ì •ë¦¬í•œ ë¸”ë¡œê·¸ ì…ë‹ˆë‹¤.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
@@ -26,7 +26,7 @@ author:
   email:             rlarkdals7@gmail.com
 
 # Fallback image and color
-image:               /assets/img/nap.jpg
+image:              
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
