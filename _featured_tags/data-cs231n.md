@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: cs231n
-slug: cs231n
+title: CS231n
+slug: CS231n
 category: data
 menu: false
 order: 8
