@@ -2,23 +2,23 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:            Áñ°Å¿î µ¥ÀÌÅÍ Å½±¸»ıÈ°
+title:            ì¦ê±°ìš´ ë°ì´í„° íƒêµ¬ìƒí™œ
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 'https://gangsss.github.io'
+url:                 https://gangsss.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 baseurl:             ""
 
 # A very short description of your page
-tagline:  "talk about Data&Machine learning"             
+tagline:  talk about Data&Machine learning           
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  µ¥ÀÌÅÍ&¸Ó½Å·¯´× Å½±¸&Á¤¸®
+  ë°ì´í„°&ë¨¸ì‹ ëŸ¬ë‹ íƒêµ¬&ì •ë¦¬
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
