@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:              Step by step
+title:            Áñ°Å¿î µ¥ÀÌÅÍ Å½±¸»ıÈ°
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,12 +13,12 @@ url:                 https://gangsss.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline: Studying Data             
+tagline: talk about Data&Machine learning             
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  ë°ì´í„° ë¶„ì„ì— ê³µë¶€&ì •ë¦¬í•œ ë¸”ë¡œê·¸ ì…ë‹ˆë‹¤.
+  µ¥ÀÌÅÍ&¸Ó½Å·¯´× Å½±¸&Á¤¸®
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
@@ -44,10 +44,10 @@ google_fonts:        Lato
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:    UA-110573232-1
+google_analytics:    UA-128305792-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
-disqus_shortname:    zzsza
+disqus_shortname:    gangsss
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2018. by Gangmin'
