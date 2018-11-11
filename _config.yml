@@ -18,7 +18,7 @@ tagline:  talk about Data&Machine learning
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  데이터&머신러닝 탐구&정리
+  데이터&머신러닝 
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
@@ -26,7 +26,7 @@ author:
   email:             rlarkdals7@gmail.com
 
 # Fallback image and color
-image:              /assets/img/nap.jpg
+image:              https://github.com/Gangsss/gangsss.github.io/blob/master/assets/img/nap.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
