@@ -1,3 +1,14 @@
+---
+
+layout: post
+title: "2018년 상반기 회고"
+subtitle: ""
+categories: diary
+tags: diary
+comments: true
+
+---
+
 
 
 2018년 상반기 회고
