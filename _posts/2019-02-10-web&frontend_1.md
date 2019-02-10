@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "CS231n- 2강"
-subtitle: "CS231n"
+title: "Html,CSS정리-1"
+subtitle: "html_css_1"
 categories: development
 tags: WEB
 comments: false
