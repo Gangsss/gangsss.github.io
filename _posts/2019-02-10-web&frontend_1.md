@@ -23,7 +23,9 @@ comments: false
 
 html 태그
 
-- <~>으로 시작해 </~>으로 끝난다.
+- <~>으로 시작해 
+   
+   </~>으로 끝난다.
 
 
 
@@ -36,8 +38,10 @@ strong - 굵게
 h1 
 
 - 제목에 쓰는 태그
-- 숫자가 늘어 남에 따라 작아진다.![1548654658937](C:\Users\Administrator\Desktop\web_facebook\h1_code)![1548654611970](C:\Users\Administrator\Desktop\web_facebook\h1.png)
+- 숫자가 늘어 남에 따라 작아진다.
+<img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/h1_code.png">
 
+<img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/h1.png">
 
 
 br 
@@ -45,8 +49,7 @@ br
 - 줄 바꿈 하는 태그
 - 대신 닫는 태그는 없다.
 
-![1548656236360](C:\Users\Administrator\Desktop\web_facebook\br)
-
+<img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/br.png">
 
 
 list
@@ -54,13 +57,13 @@ list
 - 정리해서 list화 시킬 수 없을까?
 - li 태그
 
-![1548656551905](C:\Users\Administrator\Desktop\web_facebook\list)
+<img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/list.png">
 
 
 
 - list가 두개로 나눠진다면 ul태그를 중간에 써준 것이 약속!
+<img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/u.png">
 
-![1548656694258](C:\Users\Administrator\Desktop\web_facebook\u)
 
 
 
@@ -69,7 +72,7 @@ ol 태그
 - 리스트처럼 정리하고 싶지만 숫자를 넣고 싶다! 
 - ol태그 후 li 태그
 
-![1548656858136](C:\Users\Administrator\Desktop\web_facebook\ol)
+<img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/ol.png">
 
 mark up language
 
@@ -97,9 +100,7 @@ a 태그(링크)
 
 - 속성이 필요하다!
 - href(hypertext reference)
-
-![1548657955042](C:\Users\Administrator\Desktop\web_facebook\a_href)
-
+<img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/a_href.png">
 
 
 
@@ -107,8 +108,8 @@ a 태그(링크)
 title tag
 
 
+<img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/title_tag.png">
 
-![1548659676477](C:\Users\Administrator\Desktop\web_facebook\title_tag)
 
 
 
@@ -119,15 +120,14 @@ meta
 - charset
 - encoding을 맞추기 위해
 
-![1548659992185](C:\Users\Administrator\Desktop\web_facebook\meta)
-
+<img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/meta.png">
 
 
 head& body
 
 메타데이터와 컨텐츠 데이터를 나누자
 
-![1548660087707](C:\Users\Administrator\Desktop\web_facebook\head_body)
+<img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/head_body.png">
 
 
 
@@ -135,7 +135,8 @@ img
 
 src에 unplash.com의 이미지를 활용해 홈페이지를 풍성하게
 
-![1549784309646](C:\Users\Administrator\Desktop\web_facebook\get_img)
+<img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/get_img.png">
+
 
 ---
 
@@ -157,7 +158,8 @@ css를 배운다
 1. 선택자(selector)를 배워 가는 과정 - targeting
 2. 효과(description)를 배워가는 과정 
 
-![1549784868717](C:\Users\Administrator\Desktop\web_facebook\css_basic)
+
+<img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/css_basic.png">
 
 style태그로 시작 하고 끝냄
 
@@ -190,8 +192,7 @@ html 에서 말하는 elements는 태그다.
 - box model
 
 
-
-![1549785176316](C:\Users\Administrator\AppData\Local\Temp\1549785176316.png)
+<img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/css_box.png">
 
 
 
