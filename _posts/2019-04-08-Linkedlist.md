@@ -1,6 +1,4 @@
 ---
-
----
 layout: post
 title: " Linked List 개념"
 subtitle: ""
