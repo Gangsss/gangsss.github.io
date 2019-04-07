@@ -4,6 +4,7 @@ title: " Linked List 개념"
 subtitle: ""
 categories: data
 tags: etc
+comments: false
 ---
 
 
