@@ -19,7 +19,7 @@ comments: false
 
 
 
-다음 글에는 Linked-List을 활용한 TDM(Term-Document Matrix) - 희소행렬과 희소행렬 곱셈을 수행하는 함수에 대해 소개와 python 코드를 작성해보겠습니다.
+다음 글에는 List을 활용한 TDM(Term-Document Matrix) - 희소행렬과 희소행렬 곱셈을 수행하는 함수에 대해 소개와 python 코드를 작성해보겠습니다.
 
 
 
@@ -208,5 +208,5 @@ def find(self, item):
 
 [생활코딩](https://opentutorials.org/module/1335/8821)
 
-[초코 몽키의 블로그](https://wayhome25.github.io/cs/2017/04/17/cs-19/)
+[초 몽키의 블로그](https://wayhome25.github.io/cs/2017/04/17/cs-19/)
 
