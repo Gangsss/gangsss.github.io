@@ -116,7 +116,7 @@ peek은 위의 예시에서 보면 stack[-1] 형태로 확인 할 수 있다.
 
 
 
-- Queue의 정의]([https://ko.wikipedia.org/wiki/큐_(자료_구조)](https://ko.wikipedia.org/wiki/%ED%81%90_(%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0)) 
+- [Queue의 정의](https://docs.python.org/ko/3/tutorial/datastructures.html)
 
   먼저 집어 넣은 데이터가 먼저 나오는 FIFO (First In First Out)구조로 저장하는 형식 
 
@@ -210,4 +210,4 @@ deque(['Michael', 'Terry', 'Graham'])
 
 
 
-이는 이미지 viewer 혹은 mp3 플레이어 앞뒤의 곡을 불러오는 프로그램에 활용ㄴ되기도 한다.
+이는 이미지 viewer 혹은 mp3 플레이어 앞뒤의 곡을 불러오는 프로그램에 활용되기도 한다.
