@@ -22,7 +22,7 @@ comments: true
 우선,  필요한 라이브러리들을 불러옵니다.
 
 ```python
-[{"metadata":{"trusted":true},"cell_type":"code","source":"import numpy as np\nimport pandas as pd\nimport matplotlib.pyimport numpy as np
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -51,8 +51,6 @@ warnings.filterwarnings('ignore')
 %matplotlib inline
 warnings.filterwarnings('ignore')
 
-# notebook에서 바로 볼 수 있게!
-%matplotlib inlineplot as plt\nimport seaborn as sns\n\nplt.style.use('seaborn')\nsns.set(font_scale=2.5)\n\nimport missingno as msno\n\n#ignore warnings\nimport warnings\nwarnings.filterwarnings('ignore')\n\n# notebook에서 바로 볼 수 있게!\n%matplotlib inline","execution_count":48,"outputs":[]}]
 ```
 
 ## 1. 데이터 불러오기&데이터 확인하기
