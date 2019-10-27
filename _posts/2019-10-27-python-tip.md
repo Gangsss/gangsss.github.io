@@ -12,8 +12,7 @@ comments: true
 이번 글에서는 파이썬을 공부하면서 헷갈리거나 항상 찾던 것들을 정리해봤습니다.  
 
 
-
-1. input 함수
+1.input 함수
 
 input을 통해 나온 결과물의 자료형은 string입니다.
 
@@ -32,8 +31,7 @@ input을 통해 나온 결과물의 자료형은 string입니다.
 <img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/python-tip/4.PNG">
 
 
-
-2. 문자열 포맷팅
+2.문자열 포맷팅
 
 결과를 출력 하는데 결과물이 항상 달라지는 경우에 많이 쓰이는 문자열 포멧팅을 정리했습니다
 
@@ -63,7 +61,7 @@ input을 통해 나온 결과물의 자료형은 string입니다.
 
 
 
-3. replace 함수
+3.replace 함수
 
 말그대로 바꿔주는 함수입니다.
 
@@ -73,13 +71,14 @@ input을 통해 나온 결과물의 자료형은 string입니다.
 
 
 
-4. 리스트 안에 있는 지 확인
+4.리스트 안에 있는 지 확인
 
 in을 활용해서 리스트 안에 해당하는 것이 있는 지 확인합니다.
 
 <img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/python-tip/7.PNG">
 
-5. if 문 한줄로 쓰기(조건부 표현식)
+
+5.if 문 한줄로 쓰기(조건부 표현식)
 
 <img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/python-tip/8.PNG">
 
@@ -87,7 +86,7 @@ in을 활용해서 리스트 안에 해당하는 것이 있는 지 확인합니�
 
 
 
-6. range의 step
+6.range의 step
 
 <img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/python-tip/9.PNG">
 
@@ -105,7 +104,7 @@ range함수 안에 step을 지정해줘서 더 편리하게 쓸 수 있습니다
 
 
 
-8. 아스키 <-> 문자
+8.아스키 <-> 문자
 
 <img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/python-tip/11.PNG">
 
@@ -115,7 +114,7 @@ ord함수와 chr함수를 통해 문자를 아스키코드로, 아스키코드�
 
 
 
-9. 함수에서 *args, *kwarg
+9.함수에서 *args, *kwarg
 
 <img src="https://raw.githubusercontent.com/Gangsss/gangsss.github.io/master/assets/img/python-tip/12.PNG">
 
