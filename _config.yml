@@ -1,8 +1,8 @@
-# -----------------------------------------------------------------------------
+﻿# -----------------------------------------------------------------------------
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:            즐거운 데이터 탐구생활
+title:  
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,12 +13,12 @@ url:                 https://gangsss.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:  talk about Data& ML         
+tagline:  x         
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-            데이터&머신러닝 
+            
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
